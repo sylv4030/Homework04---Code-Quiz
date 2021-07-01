@@ -1,0 +1,21 @@
+.container { 
+      
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+h2{
+    border: solid 5px blue;
+    padding: 20px;
+    
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+}
