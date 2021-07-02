@@ -36,6 +36,7 @@ function startApp(){
 
     }
 
+    // use event listener to listen for click on the start button
 start.addEventListener("click", startApp);
 
 //function to select question from array and text for question HTML
