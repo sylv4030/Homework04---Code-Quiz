@@ -9,5 +9,5 @@ The hardest part for me was figuring out how to start cycling through the questi
 
 Creating the answer confirming function was fun and used a lot of the same info I learned in researching the question asking function.
 
-! [] (Capture.PNG)
-! [] (Capture2.PNG)
+![](Capture.PNG)
+![](Capture2.PNG)
